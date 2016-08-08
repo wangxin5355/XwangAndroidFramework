@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!-- 我的背景色-->
+    <color name="purple">#5E7EFD</color>
+    <color name="yellow">#FFFB00</color>
+    <color name="light_purple">#E6EFFF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="progress_bg">#727072</color>
+    <!-- 用于默认提示字体颜色\-->
+    <color name="hint_gary">#525252</color>
+    <!-- 用于默认线框颜色\-->
+    <color name="line_gary">#888888</color>
+    <color name="bg_purple">#263461</color>
+    <color name="bg_dark_purple">#263163</color>
+    <color name="bg_light_purple">#354884</color>
+    <color name="bg_dark_bule">#2C5D91</color>
+    <color name="progress_text">#ededed</color>
+    <!-- 用于描边\-->
+    <color name="darker_blue">#039BE5</color>
+    <!-- 用于填充登录按钮颜色\-->
+    <color name="light_blue">#29B6F6</color>
+</resources>

@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">XwangAndroidFramework</string>
+    <!--dialog-->
+    <string name="dialog_loading">加载中&#8230;</string>
+    <!--error-->
+    <string name="err_net" translatable="false">网络异常，请稍后再试</string>
+    <string name="err_svc" translatable="false">请求失败，服务器异常</string>
+    <string name="err_token_expired">Token过期，请重新登录!</string>
+    <string name="err_phone_or_pwd">用户名或验证码错误!</string>
+    <string name="err_phone">请输入11位手机号!</string>
+    <string name="err_pwd_empty">请输入密码!</string>
+    <string name="err_ver_code_empty">输入验证码有误!</string>
+    <string name="err_content">请输入1-100个字的反馈信息!</string>
+
+    <!--toast-->
+    <string name="toast_double_out">再按一次退出程序</string>
+
+    <!--title-->
+    <string name="title_app_name">恒嬴</string>
+    <string name="title_welcome_back">欢迎回来恒嬴!</string>
+    <string name="title_info">交易信息</string>
+    <string name="title_history_info">历史交易信息</string>
+    <string name="title_reg">注册</string>
+    <string name="title_login">登录</string>
+    <string name="title_feedback">意见反馈</string>
+    <string name="title_stock_pool">大盘股</string>
+    <string name="title_setting">设置</string>
+    <string name="title_about_app">关于Alpha投资</string>
+    <string name="title_buy_and_sale">买卖点</string>
+    <string name="title_policy_lib">策略库</string>
+
+    <!--text-->
+    <string name="text_policy_lib">策略库</string>
+    <string name="text_hot">订阅数</string>
+    <string name="text_creator">创建者</string>
+    <string name="text_r">R平方</string>
+    <string name="text_return">收益风险比</string>
+    <string name="text_earn">盈利比率</string>
+    <string name="text_advice_money">建议资金量</string>
+    <string name="text_advice_rate">建议配置</string>
+    <string name="text_date">周期</string>
+    <string name="text_stock_pool">股票池</string>
+    <string name="text_model_base_info">基本信息</string>
+    <string name="text_backprobe">回测</string>
+    <string name="text_buy_and_sale">买卖点</string>
+    <string name="text_subscribed">已订阅</string>
+    <string name="text_business">交易</string>
+    <string name="text_mine">我的</string>
+    <string name="text_login">登录</string>
+    <string name="text_logout">退出当前账号</string>
+    <string name="text_feedback">意见反馈</string>
+    <string name="text_version">当前版本</string>
+    <string name="text_about_app">关于Alpha投资</string>
+    <string name="text_reg">注册</string>
+    <string name="text_reg_right_now">立即注册</string>
+    <string name="text_phone">手机</string>
+    <string name="text_pwd">密码</string>
+    <string name="text_forget_pwd">忘记密码？</string>
+    <string name="text_confirm">确定</string>
+    <string name="text_sent">卖出</string>
+    <string name="text_buy">买入</string>
+    <string name="text_subscribe">订阅</string>
+    <string name="text_rsquared">R的平方值</string>
+    <string name="text_profitability_ratio">盈利比率</string>
+    <string name="text_earnings_risk_than">收益风险比率</string>
+    <string name="text_model_introduction">模型简介</string>
+    <string name="text_model_annualized_return">年化收益率</string>
+    <string name="text_cancel">取消</string>
+    <string name="text_initial_capital">起始资金:</string>
+    <string name="text_cumulative_net_profit">剩余资金:</string>
+    <string name="text_submit">提交</string>
+    <string name="text_hotline">服务热线</string>
+    <string name="text_subscription">Alpha投资微信公众号</string>
+    <string name="text_evaluate">给我们评价</string>
+    <string name="text_call">是否拨打这个热线电话?</string>
+    <string name="text_accept_msg">只接收股票池内交易信号</string>
+    <string name="text_my_policy_lib">我的股票池</string>
+    <string name="text_edit">编辑</string>
+    <string name="text_back">收回</string>
+    <string name="text_retract">信息已全部展示</string>
+    <string name="text_read_more">展开更多↓</string>
+    <string name="text_done">完成</string>
+    <string name="text_popular">人气:</string>
+    <string name="text_re_wards">财气:</string>
+    <string name="text_big_stocks">大股盘</string>
+    <string name="text_one_mouth">30天</string>
+    <string name="text_three_mouth">60天</string>
+    <string name="text_six_mouth">90天</string>
+    <string name="text_one_year">1 年</string>
+    <string name="text_stock">股票</string>
+    <string name="text_price">价位</string>
+    <string name="text_policy">策略</string>
+    <string name="text_model">类型</string>
+    <string name="text_more_things">展开更多↓</string>
+    <string name="text_get_ver_code">点击获取验证码</string>
+
+    <!--hint-->
+    <string name="hint_phone">手机号</string>
+    <string name="hint_feedback">您想对我们说些什么&#8230;</string>
+    <string name="hint_input_phone">请输入手机号</string>
+    <string name="hint_pwd">密码</string>
+    <string name="hint_input_ver_code">请输入验证码</string>
+    <string name="hint_input_pwd">请输入密码</string>
+    <string name="hint_input_pwd_confirm">再一次输入密码</string>
+    <string name="hint_input_letters">请输入右侧显示字母</string>
+</resources>
